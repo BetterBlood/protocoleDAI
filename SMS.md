@@ -225,4 +225,4 @@ Client2 -> Server: DISCONNECT
 Server --> Client2: CONFIRME DISCONNECTION
 @enduml
 ```
-![diagramme](//www.plantuml.com/plantuml/png/dP8nRuCm48Lt_uhx0ndmsA6AXI-LrNAMV5HL9nIf7YgH383x-nlA5H45FB1uEBtx_DwpZ_rmxePqQLNPViVhKC3X6JXsFx5xWj8JOLb3wcDNg6aAXvj0j7-AamiL_akT9oKalKNIZoIT8zrxOYGxOQ0_jsd8swgGsRoWcbMB6-jWY2l7x3nD4OKu-xyB8CJbbjfNMi3JEo-3WdaBQEndSnlRyGXaAbobMyUobmykEYboVvFYLNe4ydNpIlw3cd4Rm_pOg-1Y2wmpO8jSEpAZxnqD25TKcI-PvUZD9e_n-fKkxIy0)
+![diagramme](https://github.com/BetterBlood/protocoleDAI/blob/main/diagramme.PNG)
