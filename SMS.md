@@ -226,3 +226,5 @@ Server --> Client2: CONFIRME DISCONNECTION
 @enduml
 ```
 ![diagramme](https://github.com/BetterBlood/protocoleDAI/blob/main/diagramme.PNG)
+
+Sur ce diagramme sont présent la majorité des cas pouvant se passer, pour plus détail sur les commandes et leurs réponses, merci de lire les chapitres [7](#7-messages-et-actions-autorisés) et [8](#8-formats-des-messages-et-actions).
